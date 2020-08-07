@@ -28,10 +28,4 @@ https://django-modeltranslation.readthedocs.io/en/latest/index.html
 **Django life cycle**
 https://rsinger86.github.io/django-lifecycle/
 
-## Study Resources
 
-**Courses**
-https://morioh.com/courses
-
-**Design patterns**
-https://refactoring.guru/
